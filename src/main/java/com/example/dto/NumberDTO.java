@@ -1,6 +1,7 @@
 package com.example.dto;
 
 public class NumberDTO {
+	
 private int baseValue;
 private int exponentValue;
 public int getBaseValue() {
@@ -15,7 +16,4 @@ public int getExponentValue() {
 public void setExponentValue(int exponentValue) {
 	this.exponentValue = exponentValue;
 }
-
-
-
 }
